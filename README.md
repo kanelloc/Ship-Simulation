@@ -26,4 +26,6 @@ Development tools that we used:
 - Service.h
 - Tanker.h
 
+![oop](https://cloud.githubusercontent.com/assets/17724315/13605905/6ab0c370-e552-11e5-8075-1f0806f3b6c5.png)
+
 For more information check the Report_4982_4994.pdf file.
